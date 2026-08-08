@@ -6,6 +6,8 @@ For eight centuries, the grimoire lay sealed beneath layers of dust and forgotte
 
 **Grimoire of the Lost** was built as a **hackathon project** — a scroll-driven, immersive 3D story experience where visitors uncover a wizard's grimoire page by page, choose one of three potions, and watch them come alive in a cinematic environment.
 
+## Demo
+visit [https://the-grimoire-of-the-lost.netlify.app/]
 ## Tech Stack
 
 - **React 19** — Component architecture
